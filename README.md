@@ -1,2 +1,2 @@
-# photo-copy
-copies photo from google photo album and publish into wechat
+# photo-sync
+copies photo from google photo album and publish into other services
